@@ -1,0 +1,8 @@
+# Tidy3D results and notebook state
+data/
+*.hdf5
+*.hdf5.gz
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
